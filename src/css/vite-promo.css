@@ -33,10 +33,10 @@
 }
 @media only screen and (min-width: 768px) {
   .main-title-gradient {
-    font-size: 3em;
+    font-size: 2em;
   }
 }
-.main-title-link {
+/* .main-title-link {
   position: relative;
   letter-spacing: 0.04em;
 }
@@ -55,7 +55,7 @@
 .main-title-link:hover::before,
 .main-title-link:focus::before {
   background-color: #ff6b0a;
-}
+} */
 
 .vite-promo .title,
 .vite-promo .text {
