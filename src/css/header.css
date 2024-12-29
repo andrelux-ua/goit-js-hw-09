@@ -20,8 +20,10 @@
   position: relative;
   display: block;
   font-weight: 500;
+  font-size: 21px;
   letter-spacing: 0.02em;
   transition: 200ms ease-in;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
 }
 .nav-link:hover,
 .nav-link:focus {
